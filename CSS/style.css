@@ -2,6 +2,9 @@ body{
 font-family: 'Poppins', sans-serif;
 background-color: #4741AF;
 }
+.container{
+    max-width: 1200px;
+}
 .mynavbar{
     background-color:#4741AF;
 }
@@ -16,4 +19,23 @@ background-color: #4741AF;
     font-size: 45;
 font-weight: 700;
 
+}
+.banner-title{
+    font-size: 72px;
+    font-weight: 900;
+}
+.banner-subtitle{
+    font-size: 25px;
+    font-weight: 500;
+}
+.banner-btn{
+    background-color: #6C63FF;
+    padding: 15px 55px ;
+    border-radius: 40px;
+    text-decoration: none;
+    color: white;
+}
+.banner-btn:hover {
+    color : #6C63FF ;
+    background-color:white
 }
