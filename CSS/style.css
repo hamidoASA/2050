@@ -1,12 +1,15 @@
 body{
 font-family: 'Poppins', sans-serif;
-background-color: #4741AF;
+
 }
 .container{
     max-width: 1200px;
 }
 .mynavbar{
     background-color:#4741AF;
+}
+.nav-item{
+    padding: 0 10px;
 }
 .nav-link{
     color: white;
@@ -59,8 +62,21 @@ font-weight: 700;
 .about-img{
     margin-left: -345px;
 }
+.service-background{
+    background-color: #4741AF;
+    width: 624px;
+    height: 624px;
+    border-radius: 50%;
+}
 .service-icon{
     background-color: #6C63FF;
     padding: 20px;
     border-radius: 50%;
+}
+.mydiv {
+    background-color: #F3F9FB;
+}
+.banner-img-2{
+   margin-left: -150px;
+
 }
