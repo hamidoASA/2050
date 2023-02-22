@@ -80,3 +80,6 @@ font-weight: 700;
    margin-left: -150px;
 
 }
+.product-card {
+    border-bottom: 3px solid #6C63FF;
+}
