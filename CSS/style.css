@@ -82,6 +82,7 @@ body{
     }
     .product-card {
         border-bottom: 3px solid #6C63FF;
+        
     }
     .feature-icon{
         background-color: #6C63FF;
@@ -112,5 +113,11 @@ body{
     
     }
     .post-img {
-        transition: transform .4s;
+        transition: all .4s;
+    }
+    .product-card:hover {
+        margin-top: -10px;
+    }
+    .product-card {
+        transition: all .4s;
     }
